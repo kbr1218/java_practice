@@ -60,6 +60,6 @@ public class Gugudan {
     	System.out.println(number * 7);
     	System.out.println(number * 8);
     	System.out.println(number * 9);
-    	
+    	System.out.println("새로운 내용 추가");
     }
 }
