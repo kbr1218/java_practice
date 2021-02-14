@@ -1,7 +1,7 @@
 package jump2java;
 
 public class Testwhile {
-	public static void main(String[] args) {
+	public static void main10(String[] args) {
 		//while : 반복해서 문장을 수행해야 할 경우 사용
 		/*while문 기본 구조
 		 * while (조건문) {
