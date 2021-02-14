@@ -3,7 +3,7 @@ package jump2java;
 import java.util.ArrayList;
 
 public class Test_if {
-	public static void main(String[] args) {
+	public static void main8(String[] args) {
 		//if문 예시
 		boolean money1 = true;
 		if (money1) {
