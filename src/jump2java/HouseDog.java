@@ -24,7 +24,7 @@ public class HouseDog extends TestInheritance {
 	
 	
 	
-	public static void main(String[] args) {
+	public static void main16(String[] args) {
 		HouseDog houseDog = new HouseDog();
 		houseDog.setName("happy");
 		houseDog.sleep();			//sleep() 메소드 호출
