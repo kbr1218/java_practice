@@ -82,7 +82,7 @@ public class TestMethod {
 	
 	
 	//main 함수
-	public static void main (String[] args) {
+	public static void main13 (String[] args) {
 		int a = 3;
 		int b = 4;
 		
@@ -120,5 +120,4 @@ public class TestMethod {
 		System.out.println(myTest8.i);
 	}
 	
-	//05-3 Call by Value할 차례
 }

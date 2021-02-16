@@ -1,7 +1,7 @@
 package jump2java;
 
 public class Testfor {
-	public static void main9(String[] args) {
+	public static void main11(String[] args) {
 		//for문 예 1 : 전형적인 for문
 		//numbers라는 배열의 첫번째 요소부터 마지막 요소까지 출력
 		String[] numbers = {"one", "two", "three"};

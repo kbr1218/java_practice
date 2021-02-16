@@ -19,7 +19,7 @@ public class Animal {
 		//메소드 호출 방법 : 도트 연산자(.) 이용 -> 객체.메소드
 	}
 	
-	public static void main10(String[] args) {
+	public static void main12(String[] args) {
 		Animal cat = new Animal();
 		cat.setName("body");				//메소드 호출
 		System.out.println(cat.name);		//객체 = cat, 객체변수 = name
