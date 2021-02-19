@@ -18,7 +18,7 @@ public class ZooKeeper {
 	}
 	
 	
-	public static void main(String[] args) {
+	public static void main16(String[] args) {
 		ZooKeeper zooKeeper = new ZooKeeper();
 		Tiger tiger = new Tiger();
 		Lion lion = new Lion();
@@ -28,5 +28,4 @@ public class ZooKeeper {
 	//중요한 점! 메소드의 갯수가 줄어들은 것이 아니라 ZooKeeper Calss가 동물들의 종류에 의존적인 클래스에서
 	// 동물들의 종류와 상관없는 ***독립적인 클래스***가 되었다든 점임 -> 인터페이스의 핵심
 	
-	//05-7 다형성부터
 }
