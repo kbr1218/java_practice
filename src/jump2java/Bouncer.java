@@ -21,7 +21,7 @@ public class Bouncer {
 	// 하나의 객체가 여러개의 자료형 타입을 가질 수 있음 -> ***다형성, 폴리모피즘(Polymorphism)***
 	
 	
-	public static void main(String[] args) {
+	public static void main17(String[] args) {
 		Tiger tiger = new Tiger();			//Tiger와 Lion 클래스는 Animal 클래스를 상속받은 자식 클래스임
 		Lion lion = new Lion();			//자식 클래스는 언제나 부모 클래스의 자료형으로 사용할 수 있음
 											//Tiger tiger = new Tiger();와 Animal tiger = new Tiger();가 같음
@@ -39,5 +39,6 @@ public class Bouncer {
 		//			   predator 객체는 getFood() 메소드가 선언된 Predator 인터페이스의 객체이므로 getFood 메소드만 호출 가능
 		//			   이와 마찬가지로 Barkable로 선언된 barkable 객체는 bark 메소드만 호출 가능
 	}
+	//6장 콘솔 입출력부터 하면 됨
 
 }

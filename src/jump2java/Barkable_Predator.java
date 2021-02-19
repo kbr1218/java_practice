@@ -1,7 +1,7 @@
 package jump2java;
 
 //getFood 메소드와 bark 메소드를 모두 사용하고 싶을 때 만든 인터페이스
-public interface Barkable_Predator extends Predator, Barkable {  
+public interface Barkable_Predator extends Barkable {  
 
 }
 
