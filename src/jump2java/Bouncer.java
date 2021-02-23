@@ -39,6 +39,5 @@ public class Bouncer {
 		//			   predator 객체는 getFood() 메소드가 선언된 Predator 인터페이스의 객체이므로 getFood 메소드만 호출 가능
 		//			   이와 마찬가지로 Barkable로 선언된 barkable 객체는 bark 메소드만 호출 가능
 	}
-	//6장 콘솔 입출력부터 하면 됨
 
 }
