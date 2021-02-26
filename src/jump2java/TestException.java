@@ -114,5 +114,4 @@ public class TestException {
 	 * 트랜잭션(Transaction) : 하나의 작업 단위를 뜻함
 	 */
 
-	//07-5 thread 부터
 }
