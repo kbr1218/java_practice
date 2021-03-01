@@ -21,6 +21,8 @@ public class Gugu {
 	}
 	
 	public String toString() {
+		//new로 생성한 객체를 System.out.println으로 출력했을 때, toString 메소드가 구현되어 있을 경우
+		//toString()메소드를 수행한 결과값을 리턴하게 됨
 		StringBuffer sb = new StringBuffer();
 		int[] result = all();
 		for (int i = 0; i < result.length; i++) {
@@ -32,7 +34,7 @@ public class Gugu {
 		return sb.toString();
 	}
 	
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 		Gugu gugu = new Gugu(2);
 		System.out.println(gugu.get(3));
 		System.out.println(gugu);
