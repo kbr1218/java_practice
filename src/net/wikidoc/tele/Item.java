@@ -55,4 +55,5 @@ public class Item {
 		item.setValue("김말이");
 		System.out.println("[" + item.raw() + "]");
 	}
+
 }
